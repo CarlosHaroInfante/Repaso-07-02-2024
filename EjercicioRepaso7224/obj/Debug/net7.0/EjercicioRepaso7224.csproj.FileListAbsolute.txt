@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\bin\Debug\net7.0\EjercicioRepaso7224.exe
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\bin\Debug\net7.0\EjercicioRepaso7224.deps.json
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\bin\Debug\net7.0\EjercicioRepaso7224.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\bin\Debug\net7.0\EjercicioRepaso7224.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\bin\Debug\net7.0\EjercicioRepaso7224.pdb
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\refint\EjercicioRepaso7224.dll
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.pdb
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\EjercicioRepaso7224.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\EjercicioRepaso7224\obj\Debug\net7.0\ref\EjercicioRepaso7224.dll
